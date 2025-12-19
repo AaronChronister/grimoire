@@ -1,0 +1,156 @@
+Card Name,Rarity,Color1,Color2,Refund,Cost0,Cost1,Cost2,Type,Subtype,ATK,HP,Move,Text,
+Crusader Plate,Common,Priest,None,Priest,0,2,0,Buff,Armor,None,None,None,Gain +2 HP. Huminoid only,25
+Crusader Blade,Common,Priest,None,Priest,0,1,0,Buff,Weapon,None,None,None,Gain +1 ATK. Huminoid only,26
+Bless,Common,Priest,None,Priest,0,1,0,Buff,None,None,None,None,"Gain a bless token, draw a card",31
+Sacred Oak,Common,Druid,None,Druid,1,2,0,Conduit,Nature,None,3,None,Gain G at the start of your turn,32
+Oak,Common,Druid,None,Druid,0,1,0,Conduit,Nature,None,5,None,Draw a card when this enters the field,38
+Ritual Pyre,Common,Pyro,None,Pyro,1,2,0,Conduit,None,None,5,None,Gain R when this takes burn damage,34
+Desecrated Graveyard,Common,Necro,None,Necro,2,2,0,Conduit,None,None,4,None,At the start of your turn create a 1/1/1 Humanoid Corpse,56
+War Hound,Common,Priest,Druid,Druid,0,2,1,Minion,Beast,3,3,2,This Minion gets +1ATK when adjacent to an allied Humanoid or attacking a target that is adjacent to an allied Humanoid,119
+Flamehide,Common,Pyro,Druid,Druid,0,2,2,Minion,Beast,2,5,1,Burn Enemy Minion when attacked,31
+Deathsworn,Common,Priest,Necro,Necro,0,2,1,Minion,Huminoid,2,3,1,+2/+2 If this Minion is adjacent to a Corpse ,45
+Wild Boar,Common,Druid,None,Druid,0,2,0,Minion,Beast,1,3,1,"Whenever a Beast in range 2 gains an Enrage token, this Minion also gains an Enrage token",89
+Bear Companion,Common,Druid,None,Druid,2,3,0,Minion,Beast,3,6,1,This Minion has Cleave when it attacks with one or more Enrage tokens,69
+Will-o-wisps,Common,Pyro,None,Pyro,0,1,0,Minion,Etherial,0,1,1,Whenever you cast a spell this minion gets +1 ATK and Evasive until end of turn,79
+Acolyte,Common,Necro,None,Necro,0,1,0,Minion,Huminoid - Acolyte,1,1,1,,0
+Squire,Common,Priest,None,Priest,0,2,0,Minion,Huminoid,1,2,1,Whenever a nearby Humanoid Minion kills a target gain +1/+1/+0 permanently.,75
+Knight,Common,Priest,None,Priest,1,2,0,Minion,Huminoid,2,3,1,Victorious - Gain +1/+2/+0 permanently,38
+Sacred Deer,Common,Druid,Priest,Druid,0,1,1,Minion,Beast,2,2,1,This Minion comes into play Blessed,35
+Death God Supplicant,Common,Necro,Priest,Priest,0,1,1,Minion,Huminoid - Acolyte,1,1,1,"If this Minion is Undead and Blessed, it gains +2/+2",52
+Sacred Flame Spirit,Common,Pyro,Priest,Pyro,0,2,2,Minion,Etherial,4,4,1,This Minion gains a Bless token whenever you cast a Spell,57
+Nature God Adherent,Common,Druid,Priest,Druid,0,2,1,Minion,Huminoid,3,3,1,"3/3/1, Gain +1/+1 when nearby a Nature Conduit",46
+Knight of the Flame,Common,Priest,Pyro,Pyro,0,2,1,Minion,Huminoid,3,3,1,Attacks Burn enemy Minions,26
+Ape Sage,Common,Druid,Pyro,Pyro,0,2,1,Minion,Beast,1,3,1,"Whenever you cast two spells in the same turn, this Minion gains +1 ATK permanently",83
+Dreadflame Demon,Common,Necro,Pyro,Pyro,0,2,1,Minion,Undead,2,2,1,"When an allied Minion dies to Burning DMG or an allied Pyromancer spell, Burn a nearby target",93
+Siphon Beast,Common,Necro,Druid,Necro,0,1,1,Spell,Quick,None,None,None,"Sacrifice nearby allied Beast, gain Mana equal to that Minions cost plus one of any color.",90
+Fiery Savagery,Common,Pyro,Druid,Pyro,0,1,1,Spell,Slow,None,None,None,Allied attacking Beasts apply one Burn token this turn,54
+Death Rage,Common,Druid,Necro,Necro,0,2,1,Spell,Quick,None,None,None,"Target Beast gains two Enrage tokens. Target cannot die to damage this turn. At the your next end step, destroy it.",115
+Spore,Common,Druid,Necro,Necro,0,1,1,Spell,Slow,None,None,None,"Create mushroom Conduit adjacent to a Corpse in Range 3 (Mushroom Conduit : 2HP, G/B - Spore)",93
+Burn Flesh,Common,Pyro,Necro,Necro,0,2,1,Spell,Slow,None,None,None,All nearby Corpses gain a Burn token,36
+Savage,Common,Druid,None,Druid,0,2,0,Spell,Quick,None,None,None,Allied minion deals its ATK to an adjacent Minion,49
+Enrage,Common,Druid,None,Druid,0,1,0,Spell,Quick,None,None,None,"Enrage target Minion, if it was a Beast it gains Cleave until end of turn",73
+Heal,Common,Priest,None,Priest,0,2,0,Spell,Quick,None,None,None,Heal target 3 HP,16
+Flame Lance,Common,Pyro,None,Pyro,2,3,0,Spell,Quick,None,None,None,Deal 5 DMG to target,20
+Ignite,Common,Pyro,None,Pyro,0,1,0,Spell,Quick,None,None,None,Burn 2 nearby targets,21
+Burn,Common,Pyro,None,Pyro,0,1,0,Spell,Quick,None,None,None,Burn 1 nearby target. Draw a card,33
+Flash of Brilliance,Common,Pyro,None,Pyro,0,2,0,Spell,Quick,None,None,None,Draw 2 cards,12
+Raise Dead,Common,Necro,None,Necro,2,2,0,Spell,Slow,None,None,None,Replace Corpse token with Undead token,38
+Raise Zombie,Common,Necro,None,Necro,0,2,0,Spell,Slow,None,None,None,Replace Corpse token with undead token on a Humanoid corpse. Minion base stats become 3/3/1,91
+Siphon Energy,Common,Necro,None,Necro,0,2,0,Spell,Slow,None,None,None,"Sacrifice a Minion, draw 2 cards",32
+Raise Ghoul,Uncommon,Necro,None,Necro,2,2,0,Spell,Slow,None,None,None,"Annihilate allied Humanoid Corpse: Create a Ghoul summon. (Ghoul: 3/4/1, add undead token. Destroy adjacent Corpse: heal 4HP)",125
+Righteous Fire,Common,Pyro,Priest,Pyro,0,1,1,Spell,Slow,None,None,None,Deal twice X DMG to nearby target where X = number of nearby allied Bless tokens,80
+Unholy Regeneration,Common,Necro,Priest,Necro,0,1,1,Spell,Quick,None,None,None,"Bless target Undead Minion, it heals 3HP ",41
+Dreadflame Bolt,Common,Necro,Pyro,Pyro,0,1,1,Spell,Quick,None,None,None,Deal 2 DMG to nearby target Minion. If it dies create a 1/1/1 Skeleton Minion ,78
+The Black Blade,Rare,Priest,Necro,Priest,0,2,2,Buff,Weapon,None,None,None,+2 ATK. Lifesteal. May target Undead Minions. Gain Victorious- Annihilate a nearby Corpse and create a Skeleton summon (Skeleton: 1/1/1),136
+Shroud of the Son,Rare,Priest,None,Priest,0,2,0,Buff,Armor,None,None,None,This minion may remove a Bless token instead of taking damage,61
+Lich Form,Rare,Necro,None,Necro,3,3,0,Buff,Mage,None,None,None,"Gain an Undead token. Whenever you place an Undead token on a target, you may place another on a nearby Corpse",110
+Holy Avatar,Rare,Priest,None,Priest,3,3,0,Buff,Mage,None,None,None,"Gain +4 ATK, +10HP permanently and Victorious - Heal 2 HP",57
+Summon Hellfire Comet,Rare,Pyro,None,Pyro,1,3,0,Buff,Mage,None,None,None,On your 2nd turn following this one: draw a card whenever you cast a spell,74
+Excalibur,Rare,Priest,None,Priest,3,3,0,Buff,Weapon,None,None,None,"+2ATK, Ambush. Victorious: gain +2 ATK permanently",50
+Beast Form,Rare,Druid,None,Druid,3,3,0,Buff,Mage,None,None,None,"Whenever your mage gains an enrage token it gains the Beast type, +5 base ATK, Ambush, and +8 temporary HP until the start of your next turn.",141
+Hellfire,Rare,Necro,Pyro,Necro,0,1,1,Buff,None,None,None,None,Undead only: Gain a burning token. At the start of your turn nearby minions take 1 damage and gain a burning token,114
+Infernal Horde,Rare,Necro,Pyro,Necro,0,3,2,Buff,Mage,None,None,None,Undead minions  you control apply Burn tokens when they attack,62
+Grove of the Nature God,Rare,Priest,Druid,Priest,0,2,2,Conduit,Nature,None,4,None,Nearby Minions gain a Bless token when attacked,47
+The Endless Flame,Rare,Pyro,Druid,Pyro,0,3,3,Conduit,None,None,4,None,Conduits you control gain Fireproof. Burning tokens no longer expire,68
+Leyline Nexus,Rare,Druid,None,Druid,3,2,0,Conduit,Nature,None,4,None,All allied Conduits gain: nearby Minions gain ATK equal to the total number of Conduits you control (this effect does not stack),128
+Guardian Beast,Rare,Priest,Druid,Druid,0,2,3,Minion,Beast,5,10,1,"While Blessed, this minion heals 2HP per turn",45
+The Green Knight,Rare,Priest,Druid,Druid,0,2,2,Minion,"Huminoid, Etherial",6,6,1,This Minion may move as if its starting square was adjacent to any Forest Conduit,81
+Giant Spider,Rare,Druid,Necro,Druid,0,4,2,Minion,Beast,5,8,1,G/B: Put an incubation Turn Counter on target Corpse. When the turn counter activates summon a Spider Minion (2/3/1) in an adjacent square.,139
+Pack Alpha,Rare,Druid,None,Druid,2,3,0,Minion,Beast,5,5,2,+1 ATK when attacking for every Beast nearby the target,55
+Forest Stalker,Rare,Druid,None,Druid,3,3,0,Minion,Beast,6,6,1,Ambush. Double Strike.,22
+Emberkin,Rare,Pyro,None,Pyro,1,2,0,Minion,Etherial,0,1,1,Whenever you cast a spell this minion gets +1/+1 permanently,60
+Death Spirit,Rare,Necro,None,Necro,1,3,0,Minion,Etherial,1,1,2,Summon only next to a Corpse. Evasive. Enemies that take damage from this minion are killed,91
+Demon of Suffering,Rare,Necro,None,Necro,2,2,0,Minion,Etherial,3,5,1,"Whenever you sacrifice a  Minion, gain ATK equal to the sacrificed Minions HP until end of turn",95
+Archangel,Rare,Priest,None,Priest,3,3,0,Minion,Etherial,3,6,2,"Whenever an allied Minion becomes Blessed, you may trigger its Victorious Ability or Heal 2. Victorious - Nearby allied Etherial Minions get +1/+1 permanently",158
+Beelzebub,Rare,Necro,None,Necro,3,4,0,Minion,Etherial,4,8,1,"Whenever a Corpse token is generated nearby, you may place an Undead token on it",80
+Flame Elemental,Rare,Pyro,None,Pyro,2,3,0,Minion,Etherial,4,1,1,Fireproof. Gain one Burn token. This Minion may remove a Burn token at any time instead of taking damage,104
+Infernal,Rare,Pyro,None,Pyro,3,3,0,Minion,Etherial,3,7,1,When this minion attacks apply a number of Burn tokens equal to its ATK ,72
+Manifested Faith,Rare,Priest,None,Priest,1,3,0,Minion,Etherial,X,X,2,X = twice the number of allied Bless tokens in Range 3,54
+Moose Bull,Rare,Druid,None,Druid,0,3,0,Minion,Beast,3,4,1,"Instead of its normal action, this Minion may move any number of squares in a straight line ending adjacent to an enemy, then Attack",132
+Paladin,Rare,Priest,None,Priest,2,3,0,Minion,Huminoid,4,6,1,Double passive the effects of Bless tokens. This Minion may consume a Bless token while attacking to gain +2ATK,111
+Inquisitor,Rare,Pyro,Priest,Pyro,0,3,1,Minion,Huminoid,2,4,1,Allied Burn tokens on nearby enemy targets deal 2DMG every turn instead of one,78
+Sovereign of Sacred Fire,Rare,Pyro,Priest,Priest,0,3,3,Minion,Etherial,6,8,1,Other nearby allied Etherial Minions get +2ATK and apply one Burn token when attacking,86
+Raise Death Knight,Rare,Necro,Priest,Necro,0,3,1,Minion,Huminoid,4,4,1,"Annihilate a Humanoid Corpse. Summon a 4/5/1 Undead Death Knight. If Death Knight would take fatal damage, you may instead remove a Bless token and set its HP to 1.",164
+Beast Spirit Elder,Rare,Druid,Pyro,Druid,0,4,2,Minion,Beast,3,7,1,"When you cast a Spell, Enrage a nearby Minion. Nearby Minions with more than 2 Enrage tokens gain Ambush",104
+Raise Fungal Monstrosity,Rare,Necro,Druid,Necro,0,2,2,Spell,Slow,None,None,None,Annihilate Corpse. Summon 1/1/1 Fungal Monstrosity. Enters with +1/+1 for every Conduit you control. Gains +1/+1 whenever another Conduit you control is summoned.,162
+Amalgamate,Rare,Druid,Necro,Necro,0,1,3,Spell,Slow,None,None,None,"Annihilate two allied Corpses, create a Shambling Horror summon with ATK/HP/MOV equal to the sum of the Annihilated Corpses. ",125
+Focused Dreadflame,Rare,Pyro,Necro,Pyro,0,1,1,Spell,Quick,None,None,None,"Sacrifice any number X of nearby Burning Minions, then deal 2X damage to nearby target and draw X cards.",104
+Divine Shield,Rare,Priest,None,Priest,1,2,0,Spell,Quick,None,None,None,"Until end of turn, allied Minions take no DMG",45
+Make Whole the Blessed,Rare,Priest,None,Priest,1,2,0,Spell,Quick,None,None,None,Choose any number of Minions in Range 3. Each may consume a Bless token to heal 4 HP,84
+Entangling Roots,Rare,Druid,None,Druid,2,2,0,Spell,Slow,None,None,None,Enemy Minions have move 0 until the end of opponents next turn ,63
+Mana Bloom,Rare,Druid,None,Druid,0,5,0,Spell,Slow,None,None,None,Gain 8 Mana of any color,24
+Power Confluence,Rare,Druid,None,Druid,2,2,0,Spell,Slow,None,None,None,Each Minion heals 4HP and gains +1ATK per nearby conduit,56
+Unlimited Power,Rare,Necro,None,Necro,2,3,0,Spell,Slow,None,None,None,You may Command each Undead minion an additional time as if it weren’t fatigued,79
+Profane Rite,Rare,Necro,None,Necro,0,1,0,Spell,Slow,None,None,None,"Sacrifice 3 Minions, play a Necromancer spell or Minion for free",64
+Army of the Dead,Rare,Necro,None,Necro,3,4,0,Spell,Slow,None,None,None,Add an Undead token to all Corpses,34
+Wildfire,Rare,Pyro,None,Pyro,2,4,0,Spell,Slow,None,None,None,"For every Burning token you control, add a Burn token to nearby target. You may choose different targets for each token.",120
+Blaze of Glory,Rare,Pyro,None,Pyro,2,3,0,Spell,Slow,None,None,None,Deal 2X DMG in Range X/4 where X = number of allied Burn tokens. Remove all allied Burn tokens.,95
+Living Bomb,Rare,Pyro,None,Pyro,2,2,0,Spell,Slow,None,None,None,"Lose half your health rounded up, deal that much DMG to all Minions within Range 3.",83
+Singularity Seed,Rare,Pyro,None,Pyro,1,1,0,Spell,Slow,None,None,None,Gain XR where X is the number of spells you cast this turn,58
+Possession,Rare,Necro,Priest,Necro,0,3,3,Spell,Slow,None,None,None,Gain control of target Minion,29
+Consecrate,Rare,Pyro,Priest,Priest,0,1,3,Spell,Slow,None,None,None,"Choose allied Minion or mage, deal damage equal to half its attack to all nearby Minions, each one gains a Burn token ",118
+Siphon Rage,Rare,Druid,Pyro,Pyro,0,2,2,Spell,Slow,None,None,None,"Until end of turn, gain R/G. R/G whenever a Beast deals damage to a target",74
+War Harness,Uncommon,Priest,Druid,Priest,0,2,2,Buff,Armor,None,None,None,+3HP and +2ATK. Beast only,26
+Relic Armor,Uncommon,Priest,None,Priest,2,2,0,Buff,Armor,None,None,None,"Enemy minions have -2ATK while in combat with this minion, humanoid only",72
+Sanctified Lance,Uncommon,Priest,None,Priest,1,2,0,Buff,Weapon,None,None,None,"Gain +2ATK, unit may consume a Bless token to gain +1 range until EOT",69
+Circle of Power,Uncommon,Druid,None,Druid,3,2,0,Conduit,Nature,None,4,None,Nearby Minions heal 1HP at the start of your turn,49
+Totem of Fury,Uncommon,Druid,None,Druid,2,2,0,Conduit,Nature,None,4,None,"When summoned, all nearby Minions gain an Enrage token",54
+Holy Relic,Rare,Priest,None,Priest,1,2,0,Conduit,None,None,3,None,At the start of your turn Bless all nearby Minions,50
+Flame Nexus,Uncommon,Pyro,None,Pyro,2,2,0,Conduit,None,None,3,None,Fireproof. Gain R upon casting spell if this Conduit has more than 3 Burn tokens,80
+Fire Salamander,Uncommon,Pyro,Druid,Pyro,0,2,1,Minion,Beast,0,4,1,"When you cast a spell, this Minion deals 1 DMG to nearby target. This damage is effected by Enrage tokens",105
+Flameseeker,Uncommon,Pyro,Druid,Pyro,0,1,1,Minion,Etherial,4,4,2,Ambush. Can only deal damage to Burning targets.,48
+Beast Master,Uncommon,Priest,Druid,Priest,0,2,2,Minion,Huminoid,4,4,1,Nearby allied Beast Minions get +1/+1,37
+Acolyte of the Dreadflame,Uncommon,Pyro,Necro,Necro,0,1,1,Minion,Huminoid - Acolyte,1,1,1,"If this Minion dies to Burning damage or an allied Pyromancer spell, place an Undead token on its corpse. It gains Fireproof.",125
+Knight-Templar,Uncommon,Priest,None,Priest,3,2,0,Minion,Huminoid,3,5,1,Weapon or Armor buffs targeting this Minion cost WW less,56
+Faithful Martyr,Uncommon,Priest,None,Priest,0,2,0,Minion,Huminoid,0,1,1,"When this minion dies, Bless all nearby Minions",47
+Flame Imp,Rare,Pyro,None,Pyro,0,2,0,Minion,Etherial,1,2,1,"If this Minion dies with an allied Burn token, summon two copies of it in Range 1",81
+Dire Bear,Uncommon,Druid,None,Druid,2,3,0,Minion,Beast,4,6,1,Cleave. Double the effect of Enrage tokens when this Minion attacks,67
+Energy Beast,Rare,Druid,None,Druid,3,3,0,Minion,Beast,4,6,1,Nearby attacking enemy Minions have -2 ATK for each adjacent Conduit,68
+Angel,Uncommon,Priest,None,Priest,2,2,0,Minion,Etherial,2,4,2,"When a nearby Minion gains a Bless token, this Minion may deal DMG equal to its ATK to a nearby enemy",101
+Necromancer’s Apprentice,Rare,Necro,None,Necro,1,2,0,Minion,Huminoid,1,1,1,"Whenever you cast a spell, you may put an Undead token on a nearby Corpse. The Undead Minion has 2/2/1 base stats",113
+Cult leader,Uncommon,Necro,None,Necro,1,2,0,Minion,Huminoid - Acolyte,1,1,1,Nearby Acolytes gets +2/+2,26
+Shaman of Fury,Rare,Druid,None,Druid,2,2,0,Minion,Huminoid,2,2,1,Nearby Minions with Enrage tokens have Cleave.,46
+God’s Champion,Rare,Priest,None,Priest,2,1,0,Minion,Huminoid,2,2,1,Double the effect of Buffs on this Minion,41
+Relic Keeper,Uncommon,Priest,None,Priest,1,2,0,Minion,Huminoid,2,3,1,"When this Minion enters you may search for a Weapon or Armor card, then shuffle",79
+Abomination Demon,Uncommon,Necro,None,Necro,2,3,0,Minion,Undead,2,6,1,At start of turn you may generate a 1/1/1 Humanoid Corpse in an empty adjacent square,85
+Boar Warrior,Uncommon,Druid,None,Druid,0,2,0,Minion,Beast,2,3,1,When this Minion attacks gain an Enrage token,45
+Prestigious Duelist,Uncommon,Priest,None,Priest,1,2,0,Minion,Huminoid,5,2,1,Remove a Bless token: This Minion gets Ambush until end of turn ,64
+Nightmare Demon,Uncommon,Necro,None,Necro,1,2,0,Minion,Undead,4,5,1,Deal 1 DMG to all nearby allied Minions at EOT.,47
+Haunting Spirits,Uncommon,Necro,Priest,Priest,0,2,2,Minion,Etherial,2,1,1,Summon only next to a Corpse. Evasive. This Minion may attack any target adjacent to a Corpse.,94
+Battlemage,Uncommon,Pyro,Priest,Pyro,0,2,1,Minion,Huminoid,1,4,1,"When you cast a Spell that targets an adjacent enemy Minion, that Minion loses HP equal to this Minion’s ATK",108
+Death Zealot,Uncommon,Necro,Priest,Necro,0,1,1,Minion,Huminoid - Acolyte,2,1,1,"When this Minion dies, you may trigger a Victorious ability of any nearby allied Minion twice.",94
+Purifier,Uncommon,Pyro,Priest,Priest,0,2,2,Minion,Huminoid,2,4,1,This Minion gains Victorious when any enemy Minion dies to Burning DMG. Victorious: Burn target within range 2,110
+Invoke the Ancestors,Uncommon,Pyro,Druid,Pyro,0,2,2,Spell,Slow,None,None,None,Gain R/G for each Conduit you control,37
+Nature God’s Favor,Uncommon,Priest,Druid,Priest,0,1,1,Spell,Quick,None,None,None,Two target Beasts heal 2HP and gain a Bless token,49
+Devour Magic,Uncommon,Necro,Druid,Necro,0,1,1,Spell,Slow,None,None,None,Sacrifice up to three nearby Conduits. Heal 3HP and draw a card for each Conduit sacrificed,91
+Raise Fiery Revenant,Uncommon,Pyro,Necro,Necro,0,1,2,Spell,Slow,None,None,None,Place an Undead token on Burning Corpse. It gains Fireproof and becomes Etherial in addition to its type,104
+Corrupt,Uncommon,Druid,Necro,Druid,0,2,2,Spell,Slow,None,None,None,Deal 3DMG to all non-Undead Minions adjacent to a Conduit.,58
+Pervert Nature,Uncommon,Druid,Necro,Necro,0,1,3,Spell,Slow,None,None,None,"Place an Undead token on allied Beast Corpse, that Minion gains +2/+2",69
+Raise Skeletal Mage,Uncommon,Pyro,Necro,Necro,0,2,3,Spell,Slow,None,None,None,"Annihilate ally Huminoid Corpse. 4/4/1, May attack from Range 2. Attacks from this Minion count as casting a Spell",114
+Fury of the Undying,Uncommon,Druid,Necro,Druid,0,2,1,Spell,Slow,None,None,None,Target Undead Minion gains an Enrage token. Undead Minions do not lose Enrage tokens when attacking this turn,109
+Death offering,Uncommon,Necro,None,Necro,2,2,0,Spell,Quick,None,None,None,"Sacrifice a Minion, destroy target Minion",41
+Divine Mending,Uncommon,Priest,None,Priest,0,1,0,Spell,Quick,None,None,None,"Target minion consumes a bless token, heal 6 HP",47
+Firestorm,Uncommon,Pyro,None,Pyro,X,2,0,Spell,Quick,None,None,None,Deal 2 DMG and Burn to X nearby targets,39
+Fleeting Thought,Uncommon,Pyro,None,Pyro,0,1,0,Spell,Quick,None,None,None,Draw 1,6
+Scorch,Uncommon,Pyro,None,Pyro,0,1,0,Spell,Quick,None,None,None,Deal 3 DMG to a nearby target with a Burn token,47
+Stoke,Uncommon,Pyro,None,Pyro,1,2,0,Spell,Quick,None,None,None,"If you cast two Spells already this turn, gain RRRR",51
+Reclaimed by Nature,Uncommon,Druid,None,Druid,1,2,0,Spell,Slow,None,None,None,"Annihilate allied Corpse, draw 2",32
+Charge,Uncommon,Druid,None,Druid,0,2,0,Spell,Slow,None,None,None,Move ally minion in a straight line until hitting an enemy target. Target takes DMG equal to your Minion’s ATK ,111
+Call the Herd,Uncommon,Druid,None,Druid,2,3,0,Spell,Slow,None,None,None,Summon three 2/3/1 Boar Minions,31
+Harmony,Uncommon,Druid,None,Druid,0,3,0,Spell,Slow,None,None,None,Gain 3 Mana of any color and draw a card,40
+Dark Ritual,Uncommon,Necro,None,Necro,1,2,0,Spell,Slow,None,None,None,"Sacrifice 2 Minions, Summon a Shade (Shade: Etherial 4/1/2, Evasive)  ",70
+Beckon the faithful,Uncommon,Necro,None,Necro,1,2,0,Spell,Slow,None,None,None,Summon three Acolytes,21
+Untiring Legion,Uncommon,Necro,None,Necro,2,2,0,Spell,Slow,None,None,None,"Until end of turn, the first action of Undead Minions does not Fatigue",70
+Fiery Inspiration,Uncommon,Pyro,None,Pyro,1,2,0,Spell,Slow,None,None,None,Draw 3,6
+Gale Winds,Uncommon,Pyro,None,Pyro,1,2,0,Spell,Slow,None,None,None,You may move any number of Burn tokens to new targets,53
+Spellslinger,Uncommon,Pyro,None,Pyro,0,1,0,Spell,Slow,None,None,None,Spells you cast this turn gain +1 Range. Gain R,47
+Perfected Necromancy,Rare,Necro,None,Necro,2,2,0,Spell,Slow,None,None,None,Put a Perfected Undead token on target Corpse. (Perfected Undead can use passive and activated abilities),105
+Raise Greater Zombie,Uncommon,Necro,None,Necro,2,2,0,Spell,Slow,None,None,None,"Annihilate allied Humanoid Corpse: create a Greater Zombie summon (Greater Zombie: 3/3/1, Undead. When this minion dies its Corpse gains a Turn counter.  When the counter expires, gain Undead token)",198
+Indiscriminate Devastation,Rare,Pyro,None,Pyro,1,2,0,Spell,Slow,None,None,None,"Burn all nearby Minions, then gain R for each allied Minion Burned",66
+Faith in Flame,Uncommon,Pyro,Priest,Pyro,0,2,1,Spell,Quick,None,None,None,"Bless two nearby allied targets, then Burn two nearby enemy targets",67
+Prayer of Undeath,Uncommon,Necro,Priest,Priest,0,2,2,Spell,Quick,None,None,None,"The next time target Minion would take fatal damage, instead add an Undead token and a Bless token",98
+Spiritual Surge,Uncommon,Pyro,Priest,Priest,0,2,2,Spell,Quick,None,None,None,Etherial minions get +2ATK until end of turn,44
+Chosen by Death,Uncommon,Necro,Priest,Necro,0,1,1,Spell,Slow,None,None,None,Bless all nearby allied Undead Minions,38
+Fortify,Uncommon,Druid,Priest,Priest,0,2,2,Spell,Slow,None,None,None,Up to three target Blessed Minions gain +3 Max HP,49
+Corpse Explosion,Uncommon,Necro,Pyro,Necro,0,1,1,Spell,Quick,None,None,None,"Annihilate Corpse, deal 2 DMG and apply a Burn token to all nearby Minions",74
+Rage Invocation,Uncommon,Druid,Pyro,Pyro,0,1,1,Spell,Slow,None,None,None,"Until end of turn, when you cast a Spell, target Beast gains an Enrage token",76
