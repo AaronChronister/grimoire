@@ -1,0 +1,2393 @@
+[CustomCards]
+[
+    {
+        "name": "Crusader Plate",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994426036_f115ae3ded.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Crusader Blade",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994687369_7be91f0014.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Bless",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994426376_0a589dc819.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Sacred Oak",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994422256_ff0d18de66.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Oak",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994684284_31956f84b7.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Ritual Pyre",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993539872_70ca059576.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Desecrated Graveyard",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994425761_23465716b0.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "War Hound",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994421396_4cc72f18e2.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "Flamehide",
+        "rarity": "common",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994726875_9b212dd9a5.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Deathsworn",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994687099_44ab7d36d3.jpg",
+        "colors": [
+            "W",
+            "B"
+        ]
+    },
+    {
+        "name": "Wild Boar",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994682499_c0f1fc841d.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Bear Companion",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994688084_c9f2c7fec7.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Will-o-wisps",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993539002_370b1d6d29.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Acolyte",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994609013_9fe1ff993c.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Squire",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994723800_0dda42693e.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Knight",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994684874_16ace2cd02.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Sacred Deer",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993539887_4f8bbd2309.jpg",
+        "colors": [
+            "G",
+            "W"
+        ]
+    },
+    {
+        "name": "Death God Supplicant",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994727885_13f77fd0ef.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Sacred Flame Spirit",
+        "rarity": "common",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994604543_ca39f4c1b7.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Nature God Adherent",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994423286_fe7b05a160.jpg",
+        "colors": [
+            "G",
+            "W"
+        ]
+    },
+    {
+        "name": "Knight of the Flame",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994423746_8e2ca3ed22.jpg",
+        "colors": [
+            "W",
+            "R"
+        ]
+    },
+    {
+        "name": "Ape Sage",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993544502_ef005e3538.jpg",
+        "colors": [
+            "G",
+            "R"
+        ]
+    },
+    {
+        "name": "Dreadflame Demon",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994727455_7af298d3d1.jpg",
+        "colors": [
+            "B",
+            "R"
+        ]
+    },
+    {
+        "name": "Siphon Beast",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994683194_cc5f683f57.jpg",
+        "colors": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "name": "Fiery Savagery",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994607498_50aedd866f.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Death Rage",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993543592_d3cec99236.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Spore",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993539437_dae4c491bf.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Burn Flesh",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994728340_c4ffaed3a2.jpg",
+        "colors": [
+            "R",
+            "B"
+        ]
+    },
+    {
+        "name": "Savage",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994422136_bc99ec0c6f.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Enrage",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994425356_03f389102c.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Heal",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994424106_1cc54e0728.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Flame Lance",
+        "rarity": "common",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994607288_0a2b503b00.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Ignite",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994685189_65ae977893.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Burn",
+        "rarity": "common",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994728285_b9fa2f0c5c.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Flash of Brilliance",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994607178_4ea7295297.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Raise Dead",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994422721_7d590ab9cf.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Raise Zombie",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994683719_1d8937b70b.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Siphon Energy",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993539642_eebe5a8811.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Raise Ghoul",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993540267_f826be2dda.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Righteous Fire",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54993540072_c53182b057.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Unholy Regeneration",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994723525_b73c4b894f.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Dreadflame Bolt",
+        "rarity": "common",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 0,
+        "image": "https://live.staticflickr.com/65535/54994686849_a4f1ff2356.jpg",
+        "colors": [
+            "B",
+            "R"
+        ]
+    },
+    {
+        "name": "The Black Blade",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993539232_8080825786.jpg",
+        "colors": [
+            "W",
+            "B"
+        ]
+    },
+    {
+        "name": "Shroud of the Son",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994724015_9168d3b8c6.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Lich Form",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994423581_a69a7efd10.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Holy Avatar",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994725970_7a79fa0da9.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Summon Hellfire Comet",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994604038_18960e5255.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Excalibur",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994607613_85e3e8b486.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Beast Form",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994608758_45f5c74dda.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Hellfire",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994685354_f301099f1e.jpg",
+        "colors": [
+            "B",
+            "R"
+        ]
+    },
+    {
+        "name": "Infernal Horde",
+        "rarity": "rare",
+        "mana_cost": "5",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994423931_0029dca747.jpg",
+        "colors": [
+            "B",
+            "R"
+        ]
+    },
+    {
+        "name": "Grove of the Nature God",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994424371_14ed0e6772.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "The Endless Flame",
+        "rarity": "rare",
+        "mana_cost": "6",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994682799_18bb81e6d9.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Leyline Nexus",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994423611_aea2c5f528.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Guardian Beast",
+        "rarity": "rare",
+        "mana_cost": "5",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994424311_9b88703c15.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "The Green Knight",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994723615_8051641b67.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "Giant Spider",
+        "rarity": "rare",
+        "mana_cost": "6",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993542342_8974a77f6d.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Pack Alpha",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993540827_dc6e1e56cc.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Forest Stalker",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994606968_91c09d6525.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Emberkin",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994425486_ae42061f05.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Death Spirit",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994425906_53864c1368.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Demon of Suffering",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994687049_aa879887ec.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Archangel",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994728680_9ffece27e1.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Beelzebub",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994426411_a44e42a336.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Flame Elemental",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993542752_af2d261fc5.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Infernal",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994725805_0d9946f1e1.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Manifested Faith",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994684604_1dfd0c5b14.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Moose Bull",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994423426_17a232cbd7.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Paladin",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994684234_23dc8379a8.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Inquisitor",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994725670_5e92c49162.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Sovereign of Sacred Fire",
+        "rarity": "rare",
+        "mana_cost": "6",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994723865_fdc2977bed.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Raise Death Knight",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994422681_69c2c2d6a2.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Beast Spirit Elder",
+        "rarity": "rare",
+        "mana_cost": "6",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994426481_acac3a67b6.jpg",
+        "colors": [
+            "G",
+            "R"
+        ]
+    },
+    {
+        "name": "Raise Fungal Monstrosity",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994683834_ae3e035dc1.jpg",
+        "colors": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "name": "Amalgamate",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994688334_de16bafdb5.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Focused Dreadflame",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994606963_565ae7e08f.jpg",
+        "colors": [
+            "R",
+            "B"
+        ]
+    },
+    {
+        "name": "Divine Shield",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994425611_823732c1af.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Make Whole the Blessed",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994684644_8df3cb1108.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Entangling Roots",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994686659_0b2a47421b.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Mana Bloom",
+        "rarity": "rare",
+        "mana_cost": "5",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994725325_9b21323627.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Power Confluence",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994724890_4ee7e6920a.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Unlimited Power",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994603733_192d9a7478.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Profane Rite",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993540467_7bdf071fb0.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Army of the Dead",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993544482_fedcdab7a3.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Wildfire",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994682494_5fe97c44dc.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Blaze of Glory",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994728415_10c67ca6da.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Living Bomb",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993541377_155822128f.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Singularity Seed",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994422006_cea47bdd50.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Possession",
+        "rarity": "rare",
+        "mana_cost": "6",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993540632_5242621c24.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Consecrate",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994687559_c7a5185a68.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Siphon Rage",
+        "rarity": "rare",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994723885_68cbed363d.jpg",
+        "colors": [
+            "G",
+            "R"
+        ]
+    },
+    {
+        "name": "War Harness",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994603728_2556698546.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "Relic Armor",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994724345_28a02100ff.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Sanctified Lance",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994724100_327a995db7.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Circle of Power",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993543917_6d2759e84f.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Totem of Fury",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994723620_48df16be2f.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Holy Relic",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54993541847_5ca5da3190.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Flame Nexus",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994686259_9bf76126d6.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Fire Salamander",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993542902_dd37fd228f.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Flameseeker",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994607183_491a625519.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Beast Master",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994426496_67011d0045.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "Acolyte of the Dreadflame",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993544657_84957797ea.jpg",
+        "colors": [
+            "R",
+            "B"
+        ]
+    },
+    {
+        "name": "Knight-Templar",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994725650_3ea7940f79.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Faithful Martyr",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993542992_3ca22cc251.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Flame Imp",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994726995_6af6845eb3.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Dire Bear",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994686969_17a15fb0cc.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Energy Beast",
+        "rarity": "rare",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994686789_d9e3f9ea26.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Angel",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994426786_5400e42702.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Necromancer’s Apprentice",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994605478_f2bc44e230.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Cult leader",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993543697_595ae85651.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Shaman of Fury",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994604393_3aa8245851.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "God’s Champion",
+        "rarity": "rare",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994685839_9a2797ee20.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Relic Keeper",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994683589_e43b7d29fa.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Abomination Demon",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994728865_b29b10db7e.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Boar Warrior",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994687774_eb05aec6b6.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Prestigious Duelist",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994422816_f93c52c1f6.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Nightmare Demon",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994605463_de8ce3f4b6.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Haunting Spirits",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994685564_8bcdee9e9c.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Battlemage",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994728665_d1b593ee25.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Death Zealot",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994608018_8c4a42731c.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Purifier",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994683914_dce994e494.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Invoke the Ancestors",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993541557_d975ebb1f0.jpg",
+        "colors": [
+            "R",
+            "G"
+        ]
+    },
+    {
+        "name": "Nature God’s Favor",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994684424_ab9f3798c6.jpg",
+        "colors": [
+            "W",
+            "G"
+        ]
+    },
+    {
+        "name": "Devour Magic",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994686984_efc93f3ff8.jpg",
+        "colors": [
+            "B",
+            "G"
+        ]
+    },
+    {
+        "name": "Raise Fiery Revenant",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994422676_e64740a056.jpg",
+        "colors": [
+            "R",
+            "B"
+        ]
+    },
+    {
+        "name": "Corrupt",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993543817_3349048622.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Pervert Nature",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994724895_09102b0c60.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Raise Skeletal Mage",
+        "rarity": "uncommon",
+        "mana_cost": "5",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994422516_67b26be8d8.jpg",
+        "colors": [
+            "R",
+            "B"
+        ]
+    },
+    {
+        "name": "Fury of the Undying",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994726485_aab7ef7afc.jpg",
+        "colors": [
+            "G",
+            "B"
+        ]
+    },
+    {
+        "name": "Death offering",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54993543617_dac3e94c23.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Divine Mending",
+        "rarity": "uncommon",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994727580_f440cb764b.jpg",
+        "colors": [
+            "W"
+        ]
+    },
+    {
+        "name": "Firestorm",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994607413_be26680b04.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Fleeting Thought",
+        "rarity": "uncommon",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994424681_7d81b441d8.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Scorch",
+        "rarity": "uncommon",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994724090_7c7d11a816.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Stoke",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994604018_7d6165e605.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Reclaimed by Nature",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994683599_c8b7c00b72.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Charge",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994687609_7f9b392385.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Call the Herd",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994687744_5fba1b8117.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Harmony",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994726255_ced260a63d.jpg",
+        "colors": [
+            "G"
+        ]
+    },
+    {
+        "name": "Dark Ritual",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994687314_a2235d0e0c.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Beckon the faithful",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994608643_88f7bec64f.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Untiring Legion",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994421546_8210a09448.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Fiery Inspiration",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994425171_60896c7990.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Gale Winds",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994606798_c1d07a98d5.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Spellslinger",
+        "rarity": "uncommon",
+        "mana_cost": "1",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994421896_fda6fdfb8d.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Perfected Necromancy",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994684269_3ce2f8f783.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Raise Greater Zombie",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994683699_beff0496fe.jpg",
+        "colors": [
+            "B"
+        ]
+    },
+    {
+        "name": "Indiscriminate Devastation",
+        "rarity": "rare",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 5,
+        "image": "https://live.staticflickr.com/65535/54994606183_84f2bc2f85.jpg",
+        "colors": [
+            "R"
+        ]
+    },
+    {
+        "name": "Faith in Flame",
+        "rarity": "uncommon",
+        "mana_cost": "3",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994425311_bdb1ed6cc4.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Prayer of Undeath",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994684074_96a50a1329.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Spiritual Surge",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994604108_b741c6da83.jpg",
+        "colors": [
+            "R",
+            "W"
+        ]
+    },
+    {
+        "name": "Chosen by Death",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994608393_3130c6530a.jpg",
+        "colors": [
+            "B",
+            "W"
+        ]
+    },
+    {
+        "name": "Fortify",
+        "rarity": "uncommon",
+        "mana_cost": "4",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994686079_1131b09a73.jpg",
+        "colors": [
+            "G",
+            "W"
+        ]
+    },
+    {
+        "name": "Corpse Explosion",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994728055_fe4c94f037.jpg",
+        "colors": [
+            "B",
+            "R"
+        ]
+    },
+    {
+        "name": "Rage Invocation",
+        "rarity": "uncommon",
+        "mana_cost": "2",
+        "type": "Legendary Creature",
+        "subtypes": [
+            "God"
+        ],
+        "rating": 3,
+        "image": "https://live.staticflickr.com/65535/54994724760_1778b09d28.jpg",
+        "colors": [
+            "G",
+            "R"
+        ]
+    }
+]
+[Rares(2)]
+1 The Black Blade
+1 Shroud of the Son
+1 Lich Form
+1 Holy Avatar
+1 Summon Hellfire Comet
+1 Excalibur
+1 Beast Form
+1 Hellfire
+1 Infernal Horde
+1 Grove of the Nature God
+1 The Endless Flame
+1 Leyline Nexus
+1 Guardian Beast
+1 The Green Knight
+1 Giant Spider
+1 Pack Alpha
+1 Forest Stalker
+1 Emberkin
+1 Death Spirit
+1 Demon of Suffering
+1 Archangel
+1 Beelzebub
+1 Flame Elemental
+1 Infernal
+1 Manifested Faith
+1 Moose Bull
+1 Paladin
+1 Inquisitor
+1 Sovereign of Sacred Fire
+1 Raise Death Knight
+1 Beast Spirit Elder
+1 Raise Fungal Monstrosity
+1 Amalgamate
+1 Focused Dreadflame
+1 Divine Shield
+1 Make Whole the Blessed
+1 Entangling Roots
+1 Mana Bloom
+1 Power Confluence
+1 Unlimited Power
+1 Profane Rite
+1 Army of the Dead
+1 Wildfire
+1 Blaze of Glory
+1 Living Bomb
+1 Singularity Seed
+1 Possession
+1 Consecrate
+1 Siphon Rage
+1 Holy Relic
+1 Flame Imp
+1 Energy Beast
+1 Necromancer’s Apprentice
+1 Shaman of Fury
+1 God’s Champion
+1 Perfected Necromancy
+1 Indiscriminate Devastation
+
+[Uncommons(4)]
+2 Raise Ghoul
+2 War Harness
+2 Relic Armor
+2 Sanctified Lance
+2 Circle of Power
+2 Totem of Fury
+2 Flame Nexus
+2 Fire Salamander
+2 Flameseeker
+2 Beast Master
+2 Acolyte of the Dreadflame
+2 Knight-Templar
+2 Faithful Martyr
+2 Dire Bear
+2 Angel
+2 Cult leader
+2 Relic Keeper
+2 Abomination Demon
+2 Boar Warrior
+2 Prestigious Duelist
+2 Nightmare Demon
+2 Haunting Spirits
+2 Battlemage
+2 Death Zealot
+2 Purifier
+2 Invoke the Ancestors
+2 Nature God’s Favor
+2 Devour Magic
+2 Raise Fiery Revenant
+2 Corrupt
+2 Pervert Nature
+2 Raise Skeletal Mage
+2 Fury of the Undying
+2 Death offering
+2 Divine Mending
+2 Firestorm
+2 Fleeting Thought
+2 Scorch
+2 Stoke
+2 Reclaimed by Nature
+2 Charge
+2 Call the Herd
+2 Harmony
+2 Dark Ritual
+2 Beckon the faithful
+2 Untiring Legion
+2 Fiery Inspiration
+2 Gale Winds
+2 Spellslinger
+2 Raise Greater Zombie
+2 Faith in Flame
+2 Prayer of Undeath
+2 Spiritual Surge
+2 Chosen by Death
+2 Fortify
+2 Corpse Explosion
+2 Rage Invocation
+
+[Commons(7)]
+3 Crusader Plate
+3 Crusader Blade
+3 Bless
+3 Sacred Oak
+3 Oak
+3 Ritual Pyre
+3 Desecrated Graveyard
+3 War Hound
+3 Flamehide
+3 Deathsworn
+3 Wild Boar
+3 Bear Companion
+3 Will-o-wisps
+3 Acolyte
+3 Squire
+3 Knight
+3 Sacred Deer
+3 Death God Supplicant
+3 Sacred Flame Spirit
+3 Nature God Adherent
+3 Knight of the Flame
+3 Ape Sage
+3 Dreadflame Demon
+3 Siphon Beast
+3 Fiery Savagery
+3 Death Rage
+3 Spore
+3 Burn Flesh
+3 Savage
+3 Enrage
+3 Heal
+3 Flame Lance
+3 Ignite
+3 Burn
+3 Flash of Brilliance
+3 Raise Dead
+3 Raise Zombie
+3 Siphon Energy
+3 Righteous Fire
+3 Unholy Regeneration
+3 Dreadflame Bolt
