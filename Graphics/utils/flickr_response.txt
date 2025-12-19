@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+  <photoset id="72177720331007010" primary="54994728865" owner="203658566@N07" ownername="waybetterthanandy" page="1" per_page="500" perpage="500" pages="1" title="grimoire" sorting_option_id="manual-add-to-end" total="155">
+    <photo id="54994728865" secret="b29b10db7e" server="65535" farm="66" title="Abomination Demon" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993544657" secret="84957797ea" server="65535" farm="66" title="Acolyte of the Dreadflame" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994609013" secret="9fe1ff993c" server="65535" farm="66" title="Acolyte" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994688334" secret="de16bafdb5" server="65535" farm="66" title="Amalgamate" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426786" secret="5400e42702" server="65535" farm="66" title="Angel" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993544502" secret="ef005e3538" server="65535" farm="66" title="Ape Sage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728680" secret="9ffece27e1" server="65535" farm="66" title="Archangel" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993544482" secret="fedcdab7a3" server="65535" farm="66" title="Army of the Dead" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728665" secret="d1b593ee25" server="65535" farm="66" title="Battlemage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994688084" secret="c9f2c7fec7" server="65535" farm="66" title="Bear Companion" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994608758" secret="45f5c74dda" server="65535" farm="66" title="Beast Form" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426496" secret="67011d0045" server="65535" farm="66" title="Beast Master" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426481" secret="acac3a67b6" server="65535" farm="66" title="Beast Spirit Elder" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994608643" secret="88f7bec64f" server="65535" farm="66" title="Beckon the faithful" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426411" secret="a44e42a336" server="65535" farm="66" title="Beelzebub" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728415" secret="10c67ca6da" server="65535" farm="66" title="Blaze of Glory" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426376" secret="0a589dc819" server="65535" farm="66" title="Bless" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687774" secret="eb05aec6b6" server="65535" farm="66" title="Boar Warrior" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728340" secret="c4ffaed3a2" server="65535" farm="66" title="Burn Flesh" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728285" secret="b9fa2f0c5c" server="65535" farm="66" title="Burn" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687744" secret="5fba1b8117" server="65535" farm="66" title="Call the Herd" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687609" secret="7f9b392385" server="65535" farm="66" title="Charge" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994608393" secret="3130c6530a" server="65535" farm="66" title="Chosen by Death" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993543917" secret="6d2759e84f" server="65535" farm="66" title="Circle of Power" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687559" secret="c7a5185a68" server="65535" farm="66" title="Consecrate" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994728055" secret="fe4c94f037" server="65535" farm="66" title="Corpse Explosion" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993543817" secret="3349048622" server="65535" farm="66" title="Corrupt" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687369" secret="7be91f0014" server="65535" farm="66" title="Crusader Blade" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994426036" secret="f115ae3ded" server="65535" farm="66" title="Crusader Plate" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993543697" secret="595ae85651" server="65535" farm="66" title="Cult leader" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687314" secret="a2235d0e0c" server="65535" farm="66" title="Dark Ritual" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994727885" secret="13f77fd0ef" server="65535" farm="66" title="Death God Supplicant" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993543617" secret="dac3e94c23" server="65535" farm="66" title="Death offering" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993543592" secret="d3cec99236" server="65535" farm="66" title="Death Rage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425906" secret="53864c1368" server="65535" farm="66" title="Death Spirit" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994608018" secret="8c4a42731c" server="65535" farm="66" title="Death Zealot" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687099" secret="44ab7d36d3" server="65535" farm="66" title="Deathsworn" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994687049" secret="aa879887ec" server="65535" farm="66" title="Demon of Suffering" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425761" secret="23465716b0" server="65535" farm="66" title="Desecrated Graveyard" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686984" secret="efc93f3ff8" server="65535" farm="66" title="Devour Magic" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686969" secret="17a15fb0cc" server="65535" farm="66" title="Dire Bear" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994727580" secret="f440cb764b" server="65535" farm="66" title="Divine Mending" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425611" secret="823732c1af" server="65535" farm="66" title="Divine Shield" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686849" secret="a4f1ff2356" server="65535" farm="66" title="Dreadflame Bolt" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994727455" secret="7af298d3d1" server="65535" farm="66" title="Dreadflame Demon" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425486" secret="ae42061f05" server="65535" farm="66" title="Emberkin" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686789" secret="d9e3f9ea26" server="65535" farm="66" title="Energy Beast" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425356" secret="03f389102c" server="65535" farm="66" title="Enrage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686659" secret="0b2a47421b" server="65535" farm="66" title="Entangling Roots" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607613" secret="85e3e8b486" server="65535" farm="66" title="Excalibur" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425311" secret="bdb1ed6cc4" server="65535" farm="66" title="Faith in Flame" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993542992" secret="3ca22cc251" server="65535" farm="66" title="Faithful Martyr" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994425171" secret="60896c7990" server="65535" farm="66" title="Fiery Inspiration" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607498" secret="50aedd866f" server="65535" farm="66" title="Fiery Savagery" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993542902" secret="dd37fd228f" server="65535" farm="66" title="Fire Salamander" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607413" secret="be26680b04" server="65535" farm="66" title="Firestorm" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993542752" secret="af2d261fc5" server="65535" farm="66" title="Flame Elemental" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994726995" secret="6af6845eb3" server="65535" farm="66" title="Flame Imp" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607288" secret="0a2b503b00" server="65535" farm="66" title="Flame Lance" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686259" secret="9bf76126d6" server="65535" farm="66" title="Flame Nexus" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994726875" secret="9b212dd9a5" server="65535" farm="66" title="Flamehide" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607183" secret="491a625519" server="65535" farm="66" title="Flameseeker" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994607178" secret="4ea7295297" server="65535" farm="66" title="Flash of Brilliance" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994424681" secret="7d81b441d8" server="65535" farm="66" title="Fleeting Thought" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994606963" secret="565ae7e08f" server="65535" farm="66" title="Focused Dreadflame" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994606968" secret="91c09d6525" server="65535" farm="66" title="Forest Stalker" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994686079" secret="1131b09a73" server="65535" farm="66" title="Fortify" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994726485" secret="aab7ef7afc" server="65535" farm="66" title="Fury of the Undying" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994606798" secret="c1d07a98d5" server="65535" farm="66" title="Gale Winds" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993542342" secret="8974a77f6d" server="65535" farm="66" title="Giant Spider" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994685839" secret="9a2797ee20" server="65535" farm="66" title="God’s Champion" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994424371" secret="14ed0e6772" server="65535" farm="66" title="Grove of the Nature God" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994424311" secret="9b88703c15" server="65535" farm="66" title="Guardian Beast" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994726255" secret="ced260a63d" server="65535" farm="66" title="Harmony" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994685564" secret="8bcdee9e9c" server="65535" farm="66" title="Haunting Spirits" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994424106" secret="1cc54e0728" server="65535" farm="66" title="Heal" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994685354" secret="f301099f1e" server="65535" farm="66" title="Hellfire" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994725970" secret="7a79fa0da9" server="65535" farm="66" title="Holy Avatar" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993541847" secret="5ca5da3190" server="65535" farm="66" title="Holy Relic" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994685189" secret="65ae977893" server="65535" farm="66" title="Ignite" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994606183" secret="84f2bc2f85" server="65535" farm="66" title="Indiscriminate Devastation" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423931" secret="0029dca747" server="65535" farm="66" title="Infernal Horde" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994725805" secret="0d9946f1e1" server="65535" farm="66" title="Infernal" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994725670" secret="5e92c49162" server="65535" farm="66" title="Inquisitor" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993541557" secret="d975ebb1f0" server="65535" farm="66" title="Invoke the Ancestors" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423746" secret="8e2ca3ed22" server="65535" farm="66" title="Knight of the Flame" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994725650" secret="3ea7940f79" server="65535" farm="66" title="Knight-Templar" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684874" secret="16ace2cd02" server="65535" farm="66" title="Knight" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423611" secret="aea2c5f528" server="65535" farm="66" title="Leyline Nexus" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423581" secret="a69a7efd10" server="65535" farm="66" title="Lich Form" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993541377" secret="155822128f" server="65535" farm="66" title="Living Bomb" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684644" secret="8df3cb1108" server="65535" farm="66" title="Make Whole the Blessed" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994725325" secret="9b21323627" server="65535" farm="66" title="Mana Bloom" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684604" secret="1dfd0c5b14" server="65535" farm="66" title="Manifested Faith" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423426" secret="17a232cbd7" server="65535" farm="66" title="Moose Bull" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994423286" secret="fe7b05a160" server="65535" farm="66" title="Nature God Adherent" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684424" secret="ab9f3798c6" server="65535" farm="66" title="Nature God’s Favor" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994605478" secret="f2bc44e230" server="65535" farm="66" title="Necromancer’s Apprentice" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994605463" secret="de8ce3f4b6" server="65535" farm="66" title="Nightmare Demon" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684284" secret="31956f84b7" server="65535" farm="66" title="Oak" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993540827" secret="dc6e1e56cc" server="65535" farm="66" title="Pack Alpha" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684234" secret="23dc8379a8" server="65535" farm="66" title="Paladin" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684269" secret="3ce2f8f783" server="65535" farm="66" title="Perfected Necromancy" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724895" secret="09102b0c60" server="65535" farm="66" title="Pervert Nature" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993540632" secret="5242621c24" server="65535" farm="66" title="Possession" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724890" secret="4ee7e6920a" server="65535" farm="66" title="Power Confluence" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994684074" secret="96a50a1329" server="65535" farm="66" title="Prayer of Undeath" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422816" secret="f93c52c1f6" server="65535" farm="66" title="Prestigious Duelist" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993540467" secret="7bdf071fb0" server="65535" farm="66" title="Profane Rite" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683914" secret="dce994e494" server="65535" farm="66" title="Purifier" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724760" secret="1778b09d28" server="65535" farm="66" title="Rage Invocation" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422721" secret="7d590ab9cf" server="65535" farm="66" title="Raise Dead" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422681" secret="69c2c2d6a2" server="65535" farm="66" title="Raise Death Knight" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422676" secret="e64740a056" server="65535" farm="66" title="Raise Fiery Revenant" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683834" secret="ae3e035dc1" server="65535" farm="66" title="Raise Fungal Monstrosity" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993540267" secret="f826be2dda" server="65535" farm="66" title="Raise Ghoul" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683699" secret="beff0496fe" server="65535" farm="66" title="Raise Greater Zombie" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422516" secret="67b26be8d8" server="65535" farm="66" title="Raise Skeletal Mage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683719" secret="1d8937b70b" server="65535" farm="66" title="Raise Zombie" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683599" secret="c8b7c00b72" server="65535" farm="66" title="Reclaimed by Nature" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724345" secret="28a02100ff" server="65535" farm="66" title="Relic Armor" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683589" secret="e43b7d29fa" server="65535" farm="66" title="Relic Keeper" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993540072" secret="c53182b057" server="65535" farm="66" title="Righteous Fire" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539872" secret="70ca059576" server="65535" farm="66" title="Ritual Pyre" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539887" secret="4f8bbd2309" server="65535" farm="66" title="Sacred Deer" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994604543" secret="ca39f4c1b7" server="65535" farm="66" title="Sacred Flame Spirit" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422256" secret="ff0d18de66" server="65535" farm="66" title="Sacred Oak" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724100" secret="327a995db7" server="65535" farm="66" title="Sanctified Lance" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422136" secret="bc99ec0c6f" server="65535" farm="66" title="Savage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724090" secret="7c7d11a816" server="65535" farm="66" title="Scorch" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994604393" secret="3aa8245851" server="65535" farm="66" title="Shaman of Fury" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994724015" secret="9168d3b8c6" server="65535" farm="66" title="Shroud of the Son" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994422006" secret="cea47bdd50" server="65535" farm="66" title="Singularity Seed" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994683194" secret="cc5f683f57" server="65535" farm="66" title="Siphon Beast" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539642" secret="eebe5a8811" server="65535" farm="66" title="Siphon Energy" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723885" secret="68cbed363d" server="65535" farm="66" title="Siphon Rage" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723865" secret="fdc2977bed" server="65535" farm="66" title="Sovereign of Sacred Fire" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994421896" secret="fda6fdfb8d" server="65535" farm="66" title="Spellslinger" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994604108" secret="b741c6da83" server="65535" farm="66" title="Spiritual Surge" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539437" secret="dae4c491bf" server="65535" farm="66" title="Spore" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723800" secret="0dda42693e" server="65535" farm="66" title="Squire" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994604018" secret="7d6165e605" server="65535" farm="66" title="Stoke" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994604038" secret="18960e5255" server="65535" farm="66" title="Summon Hellfire Comet" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539232" secret="8080825786" server="65535" farm="66" title="The Black Blade" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994682799" secret="18bb81e6d9" server="65535" farm="66" title="The Endless Flame" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723615" secret="8051641b67" server="65535" farm="66" title="The Green Knight" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723620" secret="48df16be2f" server="65535" farm="66" title="Totem of Fury" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994723525" secret="b73c4b894f" server="65535" farm="66" title="Unholy Regeneration" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994603733" secret="192d9a7478" server="65535" farm="66" title="Unlimited Power" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994421546" secret="8210a09448" server="65535" farm="66" title="Untiring Legion" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994603728" secret="2556698546" server="65535" farm="66" title="War Harness" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994421396" secret="4cc72f18e2" server="65535" farm="66" title="War Hound" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994682499" secret="c0f1fc841d" server="65535" farm="66" title="Wild Boar" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54994682494" secret="5fe97c44dc" server="65535" farm="66" title="Wildfire" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+    <photo id="54993539002" secret="370b1d6d29" server="65535" farm="66" title="Will-o-wisps" isprimary="0" ispublic="1" isfriend="0" isfamily="0" />
+  </photoset>
+</rsp>
